@@ -11,4 +11,4 @@ Bot de assistência técnica para celulares.
 =======
 # Helppybot
 Bot de Assistencia técnica para ajudar pessoas leigas com problemas no celular
->>>>>>> a8ca1d55d26486701135159523daf9bd35313fbe
+
