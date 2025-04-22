@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Helppy Bot 🤖  
 Bot de assistência técnica para celulares da Start-Up Help-U Assistências.  
 Membros:
@@ -16,7 +16,7 @@ Gustavo - Financeiro
 3. Instale dependências:  
    ```bash
    pip install -r requirements.txt
-=======
+
 # Helppybot
 Bot de Assistencia técnica para ajudar pessoas leigas com problemas no celular
 
