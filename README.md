@@ -2,11 +2,11 @@
 # Helppy Bot 🤖  
 Bot de assistência técnica para celulares da Start-Up Help-U Assistências.  
 Membros:
-Lucas - CEO e Líder do Projeto
-Andrey - CTO e Desenvolvedor do projeto 
-Débora - Designer & Marketing
-Vinícius - Marketing & Designer
-Gustavo - Financeiro
+<p>Lucas - CEO e Líder do Projeto<p>
+<p>Andrey - CTO e Desenvolvedor do projeto<p>
+<p>Débora - Designer & Marketing<p>
+<p>Vinícius - Marketing & Designer<p>
+<p>Gustavo - Financeiro<p>
 
 
 
